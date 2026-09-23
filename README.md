@@ -1,1 +1,5 @@
-# Lab-3
+This project explores the concept of AI hallucination and guesswork in Generative AI, with a specific focus on its importance in the aviation industry. The objective is to understand how AI can generate information that appears professional and believable but may be incorrect, unsupported, or invented. In aviation, such errors can be particularly important because incorrect flight information, baggage rules, gate numbers, compensation policies, or safety information may create operational and passenger-service risks.
+
+The project begins by examining the limitations of vague prompts through a flight-delay announcement example. The activity identifies important missing information such as airline name, route, departure times, delay duration, reason for delay, gate number, passenger instructions, compensation details, and communication requirements. It demonstrates how missing information can encourage an AI system to make assumptions.
+
+A major part of the project focuses on improving prompts by providing specific, verified information and clear restrictions. An improved flight-delay prompt is created with defined route, delay duration, reason, revised departure time, passenger instructions, word limit, and instructions not to invent policy-related i
